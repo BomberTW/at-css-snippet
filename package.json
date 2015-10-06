@@ -1,0 +1,18 @@
+{
+  "name": "at-css-snippet",
+  "main": "./lib/at-css-snippet",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "at-css-snippet:toggle"
+  },
+  "repository": "https://github.com/atom/at-css-snippet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
